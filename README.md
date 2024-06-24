@@ -1,3 +1,3 @@
 ### Hi there, I'm Viktor👋
 
-**I'm a Front-end Developer specializing in React and based in Ukraine.**
+**I'm a Front-end Developer specializing in React.js, Next.js, React Native and based in Ukraine.**
